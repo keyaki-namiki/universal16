@@ -1447,7 +1447,7 @@ U 1 1 5BBD5CD8
 P 1650 5150
 F 0 "J7" H 1730 5192 50  0000 L CNN
 F 1 "Conn_01x03" H 1730 5101 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 1650 5150 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x03_P2.54mm_Vertical" H 1650 5150 50  0001 C CNN
 F 3 "~" H 1650 5150 50  0001 C CNN
 	1    1650 5150
 	-1   0    0    -1  
@@ -1458,7 +1458,7 @@ U 1 1 5BBD5F5A
 P 1650 5650
 F 0 "J9" H 1730 5692 50  0000 L CNN
 F 1 "Conn_01x03" H 1730 5601 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 1650 5650 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x03_P2.54mm_Vertical" H 1650 5650 50  0001 C CNN
 F 3 "~" H 1650 5650 50  0001 C CNN
 	1    1650 5650
 	-1   0    0    -1  
@@ -1469,7 +1469,7 @@ U 1 1 5BC22138
 P 1200 2050
 F 0 "J1" H 1280 2042 50  0000 L CNN
 F 1 "Conn_01x04" H 1280 1951 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 1200 2050 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x04_P2.54mm_Vertical" H 1200 2050 50  0001 C CNN
 F 3 "~" H 1200 2050 50  0001 C CNN
 	1    1200 2050
 	-1   0    0    -1  
@@ -1480,7 +1480,7 @@ U 1 1 5BC222A0
 P 2800 2050
 F 0 "J2" H 2880 2042 50  0000 L CNN
 F 1 "Conn_01x04" H 2880 1951 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 2800 2050 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x04_P2.54mm_Vertical" H 2800 2050 50  0001 C CNN
 F 3 "~" H 2800 2050 50  0001 C CNN
 	1    2800 2050
 	-1   0    0    -1  
@@ -1491,7 +1491,7 @@ U 1 1 5BC223C7
 P 2800 3300
 F 0 "J6" H 2880 3292 50  0000 L CNN
 F 1 "Conn_01x04" H 2880 3201 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 2800 3300 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x04_P2.54mm_Vertical" H 2800 3300 50  0001 C CNN
 F 3 "~" H 2800 3300 50  0001 C CNN
 	1    2800 3300
 	-1   0    0    -1  
@@ -1502,7 +1502,7 @@ U 1 1 5BC2256C
 P 1200 3300
 F 0 "J5" H 1280 3292 50  0000 L CNN
 F 1 "Conn_01x04" H 1280 3201 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical" H 1200 3300 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x04_P2.54mm_Vertical" H 1200 3300 50  0001 C CNN
 F 3 "~" H 1200 3300 50  0001 C CNN
 	1    1200 3300
 	-1   0    0    -1  
@@ -1545,7 +1545,7 @@ U 1 1 5BD7134A
 P 1700 6550
 F 0 "J8" H 1780 6592 50  0000 L CNN
 F 1 "Conn_01x03" H 1780 6501 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 1700 6550 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x03_P2.54mm_Vertical" H 1700 6550 50  0001 C CNN
 F 3 "~" H 1700 6550 50  0001 C CNN
 	1    1700 6550
 	-1   0    0    -1  
@@ -1799,7 +1799,7 @@ U 1 1 5D0543DE
 P 3950 5150
 F 0 "J3" H 4030 5192 50  0000 L CNN
 F 1 "Conn_01x03" H 4030 5101 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 3950 5150 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x03_P2.54mm_Vertical" H 3950 5150 50  0001 C CNN
 F 3 "~" H 3950 5150 50  0001 C CNN
 	1    3950 5150
 	-1   0    0    -1  
@@ -1810,7 +1810,7 @@ U 1 1 5D072900
 P 3950 5650
 F 0 "J4" H 4030 5692 50  0000 L CNN
 F 1 "Conn_01x03" H 4030 5601 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 3950 5650 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x03_P2.54mm_Vertical" H 3950 5650 50  0001 C CNN
 F 3 "~" H 3950 5650 50  0001 C CNN
 	1    3950 5650
 	-1   0    0    -1  
@@ -2102,7 +2102,7 @@ U 1 1 5BCEDB9A
 P 3950 2750
 F 0 "J14" H 4030 2792 50  0000 L CNN
 F 1 "Conn_01x03" H 4030 2701 50  0000 L CNN
-F 2 "Connector_PinSocket_2.54mm:PinSocket_1x03_P2.54mm_Vertical" H 3950 2750 50  0001 C CNN
+F 2 "myfootplint:PinSocket_1x03_P2.54mm_Vertical" H 3950 2750 50  0001 C CNN
 F 3 "~" H 3950 2750 50  0001 C CNN
 	1    3950 2750
 	-1   0    0    -1  
