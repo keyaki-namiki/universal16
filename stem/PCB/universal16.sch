@@ -1,0 +1,1400 @@
+EESchema Schematic File Version 4
+LIBS:universal16-cache
+EELAYER 26 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "universal16_stem"
+Date "2018-10-23"
+Rev "0.1.0"
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L Switch:SW_Push SW3
+U 1 1 5BAD1EE8
+P 4000 3050
+F 0 "SW3" H 4000 3335 50  0000 C CNN
+F 1 "SW_Push" H 4000 3244 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 4000 3250 50  0001 C CNN
+F 3 "" H 4000 3250 50  0001 C CNN
+	1    4000 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D3
+U 1 1 5BAD1F48
+P 4200 3200
+F 0 "D3" V 4246 3121 50  0000 R CNN
+F 1 "D" V 4155 3121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4200 3200 50  0001 C CNN
+F 3 "~" H 4200 3200 50  0001 C CNN
+	1    4200 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW4
+U 1 1 5BAD2093
+P 4750 3050
+F 0 "SW4" H 4750 3335 50  0000 C CNN
+F 1 "SW_Push" H 4750 3244 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 4750 3250 50  0001 C CNN
+F 3 "" H 4750 3250 50  0001 C CNN
+	1    4750 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D4
+U 1 1 5BAD209A
+P 4950 3200
+F 0 "D4" V 4996 3121 50  0000 R CNN
+F 1 "D" V 4905 3121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4950 3200 50  0001 C CNN
+F 3 "~" H 4950 3200 50  0001 C CNN
+	1    4950 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW1
+U 1 1 5BAD24D1
+P 2500 3050
+F 0 "SW1" H 2500 3335 50  0000 C CNN
+F 1 "SW_Push" H 2500 3244 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 2500 3250 50  0001 C CNN
+F 3 "" H 2500 3250 50  0001 C CNN
+	1    2500 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D1
+U 1 1 5BAD24D7
+P 2700 3200
+F 0 "D1" V 2746 3121 50  0000 R CNN
+F 1 "D" V 2655 3121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 2700 3200 50  0001 C CNN
+F 3 "~" H 2700 3200 50  0001 C CNN
+	1    2700 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW2
+U 1 1 5BAD24DD
+P 3250 3050
+F 0 "SW2" H 3250 3335 50  0000 C CNN
+F 1 "SW_Push" H 3250 3244 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 3250 3250 50  0001 C CNN
+F 3 "" H 3250 3250 50  0001 C CNN
+	1    3250 3050
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D2
+U 1 1 5BAD24E3
+P 3450 3200
+F 0 "D2" V 3496 3121 50  0000 R CNN
+F 1 "D" V 3405 3121 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 3450 3200 50  0001 C CNN
+F 3 "~" H 3450 3200 50  0001 C CNN
+	1    3450 3200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW7
+U 1 1 5BAD2A91
+P 4000 3800
+F 0 "SW7" H 4000 4085 50  0000 C CNN
+F 1 "SW_Push" H 4000 3994 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 4000 4000 50  0001 C CNN
+F 3 "" H 4000 4000 50  0001 C CNN
+	1    4000 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D7
+U 1 1 5BAD2A98
+P 4200 3950
+F 0 "D7" V 4246 3871 50  0000 R CNN
+F 1 "D" V 4155 3871 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4200 3950 50  0001 C CNN
+F 3 "~" H 4200 3950 50  0001 C CNN
+	1    4200 3950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW8
+U 1 1 5BAD2A9F
+P 4750 3800
+F 0 "SW8" H 4750 4085 50  0000 C CNN
+F 1 "SW_Push" H 4750 3994 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 4750 4000 50  0001 C CNN
+F 3 "" H 4750 4000 50  0001 C CNN
+	1    4750 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D8
+U 1 1 5BAD2AA6
+P 4950 3950
+F 0 "D8" V 4996 3871 50  0000 R CNN
+F 1 "D" V 4905 3871 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4950 3950 50  0001 C CNN
+F 3 "~" H 4950 3950 50  0001 C CNN
+	1    4950 3950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW5
+U 1 1 5BAD2AAD
+P 2500 3800
+F 0 "SW5" H 2500 4085 50  0000 C CNN
+F 1 "SW_Push" H 2500 3994 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 2500 4000 50  0001 C CNN
+F 3 "" H 2500 4000 50  0001 C CNN
+	1    2500 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D5
+U 1 1 5BAD2AB4
+P 2700 3950
+F 0 "D5" V 2746 3871 50  0000 R CNN
+F 1 "D" V 2655 3871 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 2700 3950 50  0001 C CNN
+F 3 "~" H 2700 3950 50  0001 C CNN
+	1    2700 3950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW6
+U 1 1 5BAD2ABB
+P 3250 3800
+F 0 "SW6" H 3250 4085 50  0000 C CNN
+F 1 "SW_Push" H 3250 3994 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 3250 4000 50  0001 C CNN
+F 3 "" H 3250 4000 50  0001 C CNN
+	1    3250 3800
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D6
+U 1 1 5BAD2AC2
+P 3450 3950
+F 0 "D6" V 3496 3871 50  0000 R CNN
+F 1 "D" V 3405 3871 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 3450 3950 50  0001 C CNN
+F 3 "~" H 3450 3950 50  0001 C CNN
+	1    3450 3950
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW11
+U 1 1 5BAD2F39
+P 4000 4550
+F 0 "SW11" H 4000 4835 50  0000 C CNN
+F 1 "SW_Push" H 4000 4744 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 4000 4750 50  0001 C CNN
+F 3 "" H 4000 4750 50  0001 C CNN
+	1    4000 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D11
+U 1 1 5BAD2F3F
+P 4200 4700
+F 0 "D11" V 4246 4621 50  0000 R CNN
+F 1 "D" V 4155 4621 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4200 4700 50  0001 C CNN
+F 3 "~" H 4200 4700 50  0001 C CNN
+	1    4200 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW12
+U 1 1 5BAD2F45
+P 4750 4550
+F 0 "SW12" H 4750 4835 50  0000 C CNN
+F 1 "SW_Push" H 4750 4744 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 4750 4750 50  0001 C CNN
+F 3 "" H 4750 4750 50  0001 C CNN
+	1    4750 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D12
+U 1 1 5BAD2F4B
+P 4950 4700
+F 0 "D12" V 4996 4621 50  0000 R CNN
+F 1 "D" V 4905 4621 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4950 4700 50  0001 C CNN
+F 3 "~" H 4950 4700 50  0001 C CNN
+	1    4950 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW9
+U 1 1 5BAD2F51
+P 2500 4550
+F 0 "SW9" H 2500 4835 50  0000 C CNN
+F 1 "SW_Push" H 2500 4744 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 2500 4750 50  0001 C CNN
+F 3 "" H 2500 4750 50  0001 C CNN
+	1    2500 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D9
+U 1 1 5BAD2F57
+P 2700 4700
+F 0 "D9" V 2746 4621 50  0000 R CNN
+F 1 "D" V 2655 4621 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 2700 4700 50  0001 C CNN
+F 3 "~" H 2700 4700 50  0001 C CNN
+	1    2700 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW10
+U 1 1 5BAD2F5D
+P 3250 4550
+F 0 "SW10" H 3250 4835 50  0000 C CNN
+F 1 "SW_Push" H 3250 4744 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 3250 4750 50  0001 C CNN
+F 3 "" H 3250 4750 50  0001 C CNN
+	1    3250 4550
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D10
+U 1 1 5BAD2F63
+P 3450 4700
+F 0 "D10" V 3496 4621 50  0000 R CNN
+F 1 "D" V 3405 4621 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 3450 4700 50  0001 C CNN
+F 3 "~" H 3450 4700 50  0001 C CNN
+	1    3450 4700
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW15
+U 1 1 5BAD2F69
+P 4000 5300
+F 0 "SW15" H 4000 5585 50  0000 C CNN
+F 1 "SW_Push" H 4000 5494 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 4000 5500 50  0001 C CNN
+F 3 "" H 4000 5500 50  0001 C CNN
+	1    4000 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D15
+U 1 1 5BAD2F6F
+P 4200 5450
+F 0 "D15" V 4246 5371 50  0000 R CNN
+F 1 "D" V 4155 5371 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4200 5450 50  0001 C CNN
+F 3 "~" H 4200 5450 50  0001 C CNN
+	1    4200 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW16
+U 1 1 5BAD2F75
+P 4750 5300
+F 0 "SW16" H 4750 5585 50  0000 C CNN
+F 1 "SW_Push" H 4750 5494 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 4750 5500 50  0001 C CNN
+F 3 "" H 4750 5500 50  0001 C CNN
+	1    4750 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D16
+U 1 1 5BAD2F7B
+P 4950 5450
+F 0 "D16" V 4996 5371 50  0000 R CNN
+F 1 "D" V 4905 5371 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 4950 5450 50  0001 C CNN
+F 3 "~" H 4950 5450 50  0001 C CNN
+	1    4950 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW13
+U 1 1 5BAD2F81
+P 2500 5300
+F 0 "SW13" H 2500 5585 50  0000 C CNN
+F 1 "SW_Push" H 2500 5494 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 2500 5500 50  0001 C CNN
+F 3 "" H 2500 5500 50  0001 C CNN
+	1    2500 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D13
+U 1 1 5BAD2F87
+P 2700 5450
+F 0 "D13" V 2746 5371 50  0000 R CNN
+F 1 "D" V 2655 5371 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 2700 5450 50  0001 C CNN
+F 3 "~" H 2700 5450 50  0001 C CNN
+	1    2700 5450
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Switch:SW_Push SW14
+U 1 1 5BAD2F8D
+P 3250 5300
+F 0 "SW14" H 3250 5585 50  0000 C CNN
+F 1 "SW_Push" H 3250 5494 50  0000 C CNN
+F 2 "myfootplint:MXonly-1U-flip-kailh_lp" H 3250 5500 50  0001 C CNN
+F 3 "" H 3250 5500 50  0001 C CNN
+	1    3250 5300
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D D14
+U 1 1 5BAD2F93
+P 3450 5450
+F 0 "D14" V 3496 5371 50  0000 R CNN
+F 1 "D" V 3405 5371 50  0000 R CNN
+F 2 "keyboard_parts:D_SOD123_axial" H 3450 5450 50  0001 C CNN
+F 3 "~" H 3450 5450 50  0001 C CNN
+	1    3450 5450
+	0    -1   -1   0   
+$EndComp
+Text GLabel 1800 3350 0    60   Input ~ 0
+row0
+Text GLabel 1800 4100 0    60   Input ~ 0
+row1
+Text GLabel 1800 4850 0    60   Input ~ 0
+row2
+Text GLabel 1800 5600 0    60   Input ~ 0
+row3
+Wire Wire Line
+	1800 3350 2700 3350
+Connection ~ 2700 3350
+Wire Wire Line
+	2700 3350 3450 3350
+Connection ~ 3450 3350
+Wire Wire Line
+	3450 3350 4200 3350
+Connection ~ 4200 3350
+Wire Wire Line
+	4200 3350 4950 3350
+Wire Wire Line
+	4950 4100 4200 4100
+Connection ~ 2700 4100
+Wire Wire Line
+	2700 4100 1800 4100
+Connection ~ 3450 4100
+Wire Wire Line
+	3450 4100 2700 4100
+Connection ~ 4200 4100
+Wire Wire Line
+	4200 4100 3450 4100
+Wire Wire Line
+	1800 4850 2700 4850
+Connection ~ 2700 4850
+Wire Wire Line
+	2700 4850 3450 4850
+Connection ~ 3450 4850
+Wire Wire Line
+	3450 4850 4200 4850
+Connection ~ 4200 4850
+Wire Wire Line
+	4200 4850 4950 4850
+Wire Wire Line
+	4950 5600 4200 5600
+Connection ~ 2700 5600
+Wire Wire Line
+	2700 5600 1800 5600
+Connection ~ 3450 5600
+Wire Wire Line
+	3450 5600 2700 5600
+Connection ~ 4200 5600
+Wire Wire Line
+	4200 5600 3450 5600
+Text GLabel 2300 2500 1    60   Input ~ 0
+col0
+Text GLabel 3050 2500 1    60   Input ~ 0
+col1
+Text GLabel 3800 2500 1    60   Input ~ 0
+col2
+Text GLabel 4550 2500 1    60   Input ~ 0
+col3
+Wire Wire Line
+	4550 3050 4550 3800
+Connection ~ 4550 3800
+Wire Wire Line
+	4550 3800 4550 4550
+Connection ~ 4550 4550
+Wire Wire Line
+	4550 4550 4550 5300
+Wire Wire Line
+	3800 3050 3800 3800
+Connection ~ 3800 3800
+Wire Wire Line
+	3800 3800 3800 4550
+Connection ~ 3800 4550
+Wire Wire Line
+	3800 4550 3800 5300
+Wire Wire Line
+	3050 5300 3050 4550
+Connection ~ 3050 3800
+Wire Wire Line
+	3050 3800 3050 3050
+Connection ~ 3050 4550
+Wire Wire Line
+	3050 4550 3050 3800
+Wire Wire Line
+	2300 3050 2300 3800
+Connection ~ 2300 3800
+Wire Wire Line
+	2300 3800 2300 4550
+Connection ~ 2300 4550
+Wire Wire Line
+	2300 4550 2300 5300
+Connection ~ 2300 3050
+Connection ~ 3050 3050
+Connection ~ 3800 3050
+Connection ~ 4550 3050
+$Comp
+L power:VCC #PWR03
+U 1 1 5BAD6E4B
+P 1000 1200
+F 0 "#PWR03" H 1000 1050 50  0001 C CNN
+F 1 "VCC" H 1017 1373 50  0000 C CNN
+F 2 "" H 1000 1200 50  0001 C CNN
+F 3 "" H 1000 1200 50  0001 C CNN
+	1    1000 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR04
+U 1 1 5BAD6F03
+P 1300 1200
+F 0 "#PWR04" H 1300 950 50  0001 C CNN
+F 1 "GND" H 1305 1027 50  0000 C CNN
+F 2 "" H 1300 1200 50  0001 C CNN
+F 3 "" H 1300 1200 50  0001 C CNN
+	1    1300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR05
+U 1 1 5BAD7057
+P 1600 1200
+F 0 "#PWR05" H 1600 1050 50  0001 C CNN
+F 1 "+5V" H 1615 1373 50  0000 C CNN
+F 2 "" H 1600 1200 50  0001 C CNN
+F 3 "" H 1600 1200 50  0001 C CNN
+	1    1600 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR06
+U 1 1 5BAD7132
+P 2000 1200
+F 0 "#PWR06" H 2000 1050 50  0001 C CNN
+F 1 "+3.3V" H 2015 1373 50  0000 C CNN
+F 2 "" H 2000 1200 50  0001 C CNN
+F 3 "" H 2000 1200 50  0001 C CNN
+	1    2000 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG01
+U 1 1 5BAD7253
+P 1000 1200
+F 0 "#FLG01" H 1000 1275 50  0001 C CNN
+F 1 "PWR_FLAG" H 1000 1373 50  0000 C CNN
+F 2 "" H 1000 1200 50  0001 C CNN
+F 3 "~" H 1000 1200 50  0001 C CNN
+	1    1000 1200
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG02
+U 1 1 5BAD7395
+P 1300 1200
+F 0 "#FLG02" H 1300 1275 50  0001 C CNN
+F 1 "PWR_FLAG" H 1300 1374 50  0000 C CNN
+F 2 "" H 1300 1200 50  0001 C CNN
+F 3 "~" H 1300 1200 50  0001 C CNN
+	1    1300 1200
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG03
+U 1 1 5BAD7423
+P 1600 1200
+F 0 "#FLG03" H 1600 1275 50  0001 C CNN
+F 1 "PWR_FLAG" H 1600 1373 50  0000 C CNN
+F 2 "" H 1600 1200 50  0001 C CNN
+F 3 "~" H 1600 1200 50  0001 C CNN
+	1    1600 1200
+	-1   0    0    1   
+$EndComp
+$Comp
+L power:PWR_FLAG #FLG04
+U 1 1 5BAD7554
+P 2000 1200
+F 0 "#FLG04" H 2000 1275 50  0001 C CNN
+F 1 "PWR_FLAG" H 2000 1373 50  0000 C CNN
+F 2 "" H 2000 1200 50  0001 C CNN
+F 3 "~" H 2000 1200 50  0001 C CNN
+	1    2000 1200
+	-1   0    0    1   
+$EndComp
+$Comp
+L Jumper:SolderJumper_3_Open JP1
+U 1 1 5BADC3D2
+P 2850 1100
+F 0 "JP1" H 2850 1214 50  0000 C CNN
+F 1 "SolderJumper_3_Open" H 2850 1214 50  0001 C CNN
+F 2 "Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels" H 2850 1100 50  0001 C CNN
+F 3 "~" H 2850 1100 50  0001 C CNN
+	1    2850 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR01
+U 1 1 5BADC4DF
+P 2650 1100
+F 0 "#PWR01" H 2650 950 50  0001 C CNN
+F 1 "+5V" H 2665 1273 50  0000 C CNN
+F 2 "" H 2650 1100 50  0001 C CNN
+F 3 "" H 2650 1100 50  0001 C CNN
+	1    2650 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR02
+U 1 1 5BADC5E6
+P 3050 1100
+F 0 "#PWR02" H 3050 950 50  0001 C CNN
+F 1 "+3.3V" H 3065 1273 50  0000 C CNN
+F 2 "" H 3050 1100 50  0001 C CNN
+F 3 "" H 3050 1100 50  0001 C CNN
+	1    3050 1100
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:VCC #PWR07
+U 1 1 5BADC67E
+P 2850 1500
+F 0 "#PWR07" H 2850 1350 50  0001 C CNN
+F 1 "VCC" H 2868 1673 50  0000 C CNN
+F 2 "" H 2850 1500 50  0001 C CNN
+F 3 "" H 2850 1500 50  0001 C CNN
+	1    2850 1500
+	-1   0    0    1   
+$EndComp
+$Comp
+L Device:LED D17
+U 1 1 5BAE4188
+P 8150 3450
+F 0 "D17" H 8142 3195 50  0000 C CNN
+F 1 "LED" H 8142 3286 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 8150 3450 50  0001 C CNN
+F 3 "~" H 8150 3450 50  0001 C CNN
+	1    8150 3450
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D21
+U 1 1 5BAE58A4
+P 8150 4150
+F 0 "D21" H 8142 3895 50  0000 C CNN
+F 1 "LED" H 8142 3986 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 8150 4150 50  0001 C CNN
+F 3 "~" H 8150 4150 50  0001 C CNN
+	1    8150 4150
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D25
+U 1 1 5BAE9954
+P 8150 4850
+F 0 "D25" H 8142 4595 50  0000 C CNN
+F 1 "LED" H 8142 4686 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 8150 4850 50  0001 C CNN
+F 3 "~" H 8150 4850 50  0001 C CNN
+	1    8150 4850
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D29
+U 1 1 5BAE996C
+P 8150 5550
+F 0 "D29" H 8142 5295 50  0000 C CNN
+F 1 "LED" H 8142 5386 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 8150 5550 50  0001 C CNN
+F 3 "~" H 8150 5550 50  0001 C CNN
+	1    8150 5550
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R13
+U 1 1 5BAEA2A7
+P 8000 5400
+F 0 "R13" V 7793 5400 50  0000 C CNN
+F 1 "R" V 7884 5400 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 7930 5400 50  0001 C CNN
+F 3 "~" H 8000 5400 50  0001 C CNN
+	1    8000 5400
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R9
+U 1 1 5BAEA4DE
+P 8000 4700
+F 0 "R9" V 7793 4700 50  0000 C CNN
+F 1 "R" V 7884 4700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 7930 4700 50  0001 C CNN
+F 3 "~" H 8000 4700 50  0001 C CNN
+	1    8000 4700
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R5
+U 1 1 5BAEA5F5
+P 8000 4000
+F 0 "R5" V 7793 4000 50  0000 C CNN
+F 1 "R" V 7884 4000 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 7930 4000 50  0001 C CNN
+F 3 "~" H 8000 4000 50  0001 C CNN
+	1    8000 4000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R1
+U 1 1 5BAEA70C
+P 8000 3300
+F 0 "R1" V 7793 3300 50  0000 C CNN
+F 1 "R" V 7884 3300 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 7930 3300 50  0001 C CNN
+F 3 "~" H 8000 3300 50  0001 C CNN
+	1    8000 3300
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED D18
+U 1 1 5BB0E0BD
+P 8800 3450
+F 0 "D18" H 8792 3195 50  0000 C CNN
+F 1 "LED" H 8792 3286 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 8800 3450 50  0001 C CNN
+F 3 "~" H 8800 3450 50  0001 C CNN
+	1    8800 3450
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D22
+U 1 1 5BB0E0C3
+P 8800 4150
+F 0 "D22" H 8792 3895 50  0000 C CNN
+F 1 "LED" H 8792 3986 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 8800 4150 50  0001 C CNN
+F 3 "~" H 8800 4150 50  0001 C CNN
+	1    8800 4150
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D26
+U 1 1 5BB0E0C9
+P 8800 4850
+F 0 "D26" H 8792 4595 50  0000 C CNN
+F 1 "LED" H 8792 4686 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 8800 4850 50  0001 C CNN
+F 3 "~" H 8800 4850 50  0001 C CNN
+	1    8800 4850
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D30
+U 1 1 5BB0E0CF
+P 8800 5550
+F 0 "D30" H 8792 5295 50  0000 C CNN
+F 1 "LED" H 8792 5386 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 8800 5550 50  0001 C CNN
+F 3 "~" H 8800 5550 50  0001 C CNN
+	1    8800 5550
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R14
+U 1 1 5BB0E0D5
+P 8650 5400
+F 0 "R14" V 8443 5400 50  0000 C CNN
+F 1 "R" V 8534 5400 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 8580 5400 50  0001 C CNN
+F 3 "~" H 8650 5400 50  0001 C CNN
+	1    8650 5400
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R10
+U 1 1 5BB0E0DB
+P 8650 4700
+F 0 "R10" V 8443 4700 50  0000 C CNN
+F 1 "R" V 8534 4700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 8580 4700 50  0001 C CNN
+F 3 "~" H 8650 4700 50  0001 C CNN
+	1    8650 4700
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R6
+U 1 1 5BB0E0E1
+P 8650 4000
+F 0 "R6" V 8443 4000 50  0000 C CNN
+F 1 "R" V 8534 4000 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 8580 4000 50  0001 C CNN
+F 3 "~" H 8650 4000 50  0001 C CNN
+	1    8650 4000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R2
+U 1 1 5BB0E0E7
+P 8650 3300
+F 0 "R2" V 8443 3300 50  0000 C CNN
+F 1 "R" V 8534 3300 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 8580 3300 50  0001 C CNN
+F 3 "~" H 8650 3300 50  0001 C CNN
+	1    8650 3300
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED D19
+U 1 1 5BB0EE1B
+P 9450 3450
+F 0 "D19" H 9442 3195 50  0000 C CNN
+F 1 "LED" H 9442 3286 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 9450 3450 50  0001 C CNN
+F 3 "~" H 9450 3450 50  0001 C CNN
+	1    9450 3450
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D23
+U 1 1 5BB0EE21
+P 9450 4150
+F 0 "D23" H 9442 3895 50  0000 C CNN
+F 1 "LED" H 9442 3986 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 9450 4150 50  0001 C CNN
+F 3 "~" H 9450 4150 50  0001 C CNN
+	1    9450 4150
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D27
+U 1 1 5BB0EE27
+P 9450 4850
+F 0 "D27" H 9442 4595 50  0000 C CNN
+F 1 "LED" H 9442 4686 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 9450 4850 50  0001 C CNN
+F 3 "~" H 9450 4850 50  0001 C CNN
+	1    9450 4850
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D31
+U 1 1 5BB0EE2D
+P 9450 5550
+F 0 "D31" H 9442 5295 50  0000 C CNN
+F 1 "LED" H 9442 5386 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 9450 5550 50  0001 C CNN
+F 3 "~" H 9450 5550 50  0001 C CNN
+	1    9450 5550
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R15
+U 1 1 5BB0EE33
+P 9300 5400
+F 0 "R15" V 9093 5400 50  0000 C CNN
+F 1 "R" V 9184 5400 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9230 5400 50  0001 C CNN
+F 3 "~" H 9300 5400 50  0001 C CNN
+	1    9300 5400
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R11
+U 1 1 5BB0EE39
+P 9300 4700
+F 0 "R11" V 9093 4700 50  0000 C CNN
+F 1 "R" V 9184 4700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9230 4700 50  0001 C CNN
+F 3 "~" H 9300 4700 50  0001 C CNN
+	1    9300 4700
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R7
+U 1 1 5BB0EE3F
+P 9300 4000
+F 0 "R7" V 9093 4000 50  0000 C CNN
+F 1 "R" V 9184 4000 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9230 4000 50  0001 C CNN
+F 3 "~" H 9300 4000 50  0001 C CNN
+	1    9300 4000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R3
+U 1 1 5BB0EE45
+P 9300 3300
+F 0 "R3" V 9093 3300 50  0000 C CNN
+F 1 "R" V 9184 3300 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9230 3300 50  0001 C CNN
+F 3 "~" H 9300 3300 50  0001 C CNN
+	1    9300 3300
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:LED D20
+U 1 1 5BB0EE4B
+P 10100 3450
+F 0 "D20" H 10092 3195 50  0000 C CNN
+F 1 "LED" H 10092 3286 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 10100 3450 50  0001 C CNN
+F 3 "~" H 10100 3450 50  0001 C CNN
+	1    10100 3450
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D24
+U 1 1 5BB0EE51
+P 10100 4150
+F 0 "D24" H 10092 3895 50  0000 C CNN
+F 1 "LED" H 10092 3986 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 10100 4150 50  0001 C CNN
+F 3 "~" H 10100 4150 50  0001 C CNN
+	1    10100 4150
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D28
+U 1 1 5BB0EE57
+P 10100 4850
+F 0 "D28" H 10092 4595 50  0000 C CNN
+F 1 "LED" H 10092 4686 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 10100 4850 50  0001 C CNN
+F 3 "~" H 10100 4850 50  0001 C CNN
+	1    10100 4850
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:LED D32
+U 1 1 5BB0EE5D
+P 10100 5550
+F 0 "D32" H 10092 5295 50  0000 C CNN
+F 1 "LED" H 10092 5386 50  0000 C CNN
+F 2 "LED_THT:LED_D3.0mm_Clear" H 10100 5550 50  0001 C CNN
+F 3 "~" H 10100 5550 50  0001 C CNN
+	1    10100 5550
+	0    1    -1   0   
+$EndComp
+$Comp
+L Device:R R16
+U 1 1 5BB0EE63
+P 9950 5400
+F 0 "R16" V 9743 5400 50  0000 C CNN
+F 1 "R" V 9834 5400 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9880 5400 50  0001 C CNN
+F 3 "~" H 9950 5400 50  0001 C CNN
+	1    9950 5400
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R12
+U 1 1 5BB0EE69
+P 9950 4700
+F 0 "R12" V 9743 4700 50  0000 C CNN
+F 1 "R" V 9834 4700 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9880 4700 50  0001 C CNN
+F 3 "~" H 9950 4700 50  0001 C CNN
+	1    9950 4700
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R8
+U 1 1 5BB0EE6F
+P 9950 4000
+F 0 "R8" V 9743 4000 50  0000 C CNN
+F 1 "R" V 9834 4000 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9880 4000 50  0001 C CNN
+F 3 "~" H 9950 4000 50  0001 C CNN
+	1    9950 4000
+	0    -1   1    0   
+$EndComp
+$Comp
+L Device:R R4
+U 1 1 5BB0EE75
+P 9950 3300
+F 0 "R4" V 9743 3300 50  0000 C CNN
+F 1 "R" V 9834 3300 50  0000 C CNN
+F 2 "Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder" V 9880 3300 50  0001 C CNN
+F 3 "~" H 9950 3300 50  0001 C CNN
+	1    9950 3300
+	0    -1   1    0   
+$EndComp
+Text GLabel 2100 6450 2    60   Input ~ 0
+5V
+Text GLabel 2100 6650 2    60   Input ~ 0
+GND
+Text GLabel 2100 6550 2    60   Input ~ 0
+LED
+Text GLabel 8250 2650 1    60   Input ~ 0
+LEDcol0
+Text GLabel 9550 2650 1    60   Input ~ 0
+LEDcol2
+Text GLabel 8900 2650 1    60   Input ~ 0
+LEDcol1
+Text GLabel 10200 2650 1    60   Input ~ 0
+LEDcol3
+Text GLabel 7750 3000 0    60   Input ~ 0
+LEDrow0
+Text GLabel 7750 4400 0    60   Input ~ 0
+LEDrow2
+Text GLabel 7750 3700 0    60   Input ~ 0
+LEDrow1
+Text GLabel 7750 5100 0    60   Input ~ 0
+LEDrow3
+Wire Wire Line
+	8250 2650 8250 3600
+Wire Wire Line
+	8250 5700 8150 5700
+Wire Wire Line
+	8800 5700 8900 5700
+Wire Wire Line
+	8900 5700 8900 5000
+Wire Wire Line
+	9550 2650 9550 3600
+Wire Wire Line
+	9550 5700 9450 5700
+Wire Wire Line
+	10100 5700 10200 5700
+Wire Wire Line
+	10200 5700 10200 5000
+Wire Wire Line
+	7750 3000 7850 3000
+Wire Wire Line
+	9800 3000 9800 3300
+Wire Wire Line
+	9150 3300 9150 3000
+Connection ~ 9150 3000
+Wire Wire Line
+	9150 3000 9800 3000
+Wire Wire Line
+	8500 3300 8500 3000
+Connection ~ 8500 3000
+Wire Wire Line
+	8500 3000 9150 3000
+Wire Wire Line
+	7850 3000 7850 3300
+Connection ~ 7850 3000
+Wire Wire Line
+	7850 3000 8500 3000
+Wire Wire Line
+	7750 3700 7850 3700
+Wire Wire Line
+	9800 3700 9800 4000
+Wire Wire Line
+	9150 4000 9150 3700
+Connection ~ 9150 3700
+Wire Wire Line
+	9150 3700 9800 3700
+Wire Wire Line
+	8500 3700 8500 4000
+Connection ~ 8500 3700
+Wire Wire Line
+	8500 3700 9150 3700
+Wire Wire Line
+	7850 4000 7850 3700
+Connection ~ 7850 3700
+Wire Wire Line
+	7850 3700 8500 3700
+Wire Wire Line
+	7750 4400 7850 4400
+Wire Wire Line
+	9800 4400 9800 4700
+Wire Wire Line
+	9150 4700 9150 4400
+Connection ~ 9150 4400
+Wire Wire Line
+	9150 4400 9800 4400
+Wire Wire Line
+	8500 4400 8500 4700
+Connection ~ 8500 4400
+Wire Wire Line
+	8500 4400 9150 4400
+Wire Wire Line
+	7850 4700 7850 4400
+Connection ~ 7850 4400
+Wire Wire Line
+	7850 4400 8500 4400
+Wire Wire Line
+	7750 5100 7850 5100
+Wire Wire Line
+	9800 5100 9800 5400
+Wire Wire Line
+	9150 5400 9150 5100
+Connection ~ 9150 5100
+Wire Wire Line
+	9150 5100 9800 5100
+Wire Wire Line
+	8500 5100 8500 5400
+Connection ~ 8500 5100
+Wire Wire Line
+	8500 5100 9150 5100
+Wire Wire Line
+	7850 5100 7850 5400
+Connection ~ 7850 5100
+Wire Wire Line
+	7850 5100 8500 5100
+Wire Wire Line
+	9450 3600 9550 3600
+Connection ~ 9550 3600
+Wire Wire Line
+	9550 3600 9550 4300
+Wire Wire Line
+	10100 3600 10200 3600
+Connection ~ 10200 3600
+Wire Wire Line
+	10200 3600 10200 2650
+Wire Wire Line
+	9450 4300 9550 4300
+Connection ~ 9550 4300
+Wire Wire Line
+	9550 4300 9550 5000
+Wire Wire Line
+	10100 4300 10200 4300
+Connection ~ 10200 4300
+Wire Wire Line
+	10200 4300 10200 3600
+Wire Wire Line
+	8800 4300 8900 4300
+Connection ~ 8900 4300
+Wire Wire Line
+	8900 4300 8900 3600
+Wire Wire Line
+	8150 4300 8250 4300
+Connection ~ 8250 4300
+Wire Wire Line
+	8250 4300 8250 5000
+Wire Wire Line
+	8150 3600 8250 3600
+Connection ~ 8250 3600
+Wire Wire Line
+	8250 3600 8250 4300
+Wire Wire Line
+	8800 3600 8900 3600
+Connection ~ 8900 3600
+Wire Wire Line
+	8900 3600 8900 2650
+Wire Wire Line
+	8150 5000 8250 5000
+Connection ~ 8250 5000
+Wire Wire Line
+	8250 5000 8250 5700
+Wire Wire Line
+	8800 5000 8900 5000
+Connection ~ 8900 5000
+Wire Wire Line
+	8900 5000 8900 4300
+Wire Wire Line
+	9450 5000 9550 5000
+Connection ~ 9550 5000
+Wire Wire Line
+	9550 5000 9550 5700
+Wire Wire Line
+	10100 5000 10200 5000
+Connection ~ 10200 5000
+Wire Wire Line
+	10200 5000 10200 4300
+$Comp
+L Connector_Generic:Conn_01x03 J5
+U 1 1 5BBD5CD8
+P 1350 6550
+F 0 "J5" H 1430 6592 50  0000 L CNN
+F 1 "Conn_01x03" H 1430 6501 50  0000 L CNN
+F 2 "myfootplint:3pads" H 1350 6550 50  0001 C CNN
+F 3 "~" H 1350 6550 50  0001 C CNN
+	1    1350 6550
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x03 J8
+U 1 1 5BBD5F5A
+P 1350 7050
+F 0 "J8" H 1430 7092 50  0000 L CNN
+F 1 "Conn_01x03" H 1430 7001 50  0000 L CNN
+F 2 "myfootplint:3pads" H 1350 7050 50  0001 C CNN
+F 3 "~" H 1350 7050 50  0001 C CNN
+	1    1350 7050
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J4
+U 1 1 5BC223C7
+P 8950 1400
+F 0 "J4" H 9030 1392 50  0000 L CNN
+F 1 "Conn_01x04" H 9030 1301 50  0000 L CNN
+F 2 "myfootplint:4pads" H 8950 1400 50  0001 C CNN
+F 3 "~" H 8950 1400 50  0001 C CNN
+	1    8950 1400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J3
+U 1 1 5BC2256C
+P 7600 1400
+F 0 "J3" H 7680 1392 50  0000 L CNN
+F 1 "Conn_01x04" H 7680 1301 50  0000 L CNN
+F 2 "myfootplint:4pads" H 7600 1400 50  0001 C CNN
+F 3 "~" H 7600 1400 50  0001 C CNN
+	1    7600 1400
+	-1   0    0    -1  
+$EndComp
+Text GLabel 5100 1300 2    60   Input ~ 0
+row0
+Text GLabel 5100 1400 2    60   Input ~ 0
+row1
+Text GLabel 5100 1500 2    60   Input ~ 0
+row2
+Text GLabel 5100 1600 2    60   Input ~ 0
+row3
+Text GLabel 6450 1300 2    60   Input ~ 0
+col0
+Text GLabel 6450 1400 2    60   Input ~ 0
+col1
+Text GLabel 6450 1500 2    60   Input ~ 0
+col2
+Text GLabel 6450 1600 2    60   Input ~ 0
+col3
+Text GLabel 7800 1300 2    60   Input ~ 0
+LEDrow0
+Text GLabel 7800 1500 2    60   Input ~ 0
+LEDrow2
+Text GLabel 7800 1400 2    60   Input ~ 0
+LEDrow1
+Text GLabel 7800 1600 2    60   Input ~ 0
+LEDrow3
+Text GLabel 9150 1300 2    60   Input ~ 0
+LEDcol0
+Text GLabel 9150 1500 2    60   Input ~ 0
+LEDcol2
+Text GLabel 9150 1400 2    60   Input ~ 0
+LEDcol1
+Text GLabel 9150 1600 2    60   Input ~ 0
+LEDcol3
+Text GLabel 4100 6550 2    60   Input ~ 0
+VCC
+Text GLabel 4100 6450 2    60   Input ~ 0
+5V
+Text GLabel 4100 6650 2    60   Input ~ 0
+GND
+$Comp
+L Connector_Generic:Conn_01x03 J6
+U 1 1 5D0543DE
+P 3450 6550
+F 0 "J6" H 3530 6592 50  0000 L CNN
+F 1 "Conn_01x03" H 3530 6501 50  0000 L CNN
+F 2 "myfootplint:3pads" H 3450 6550 50  0001 C CNN
+F 3 "~" H 3450 6550 50  0001 C CNN
+	1    3450 6550
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x03 J9
+U 1 1 5D072900
+P 3450 7050
+F 0 "J9" H 3530 7092 50  0000 L CNN
+F 1 "Conn_01x03" H 3530 7001 50  0000 L CNN
+F 2 "myfootplint:3pads" H 3450 7050 50  0001 C CNN
+F 3 "~" H 3450 7050 50  0001 C CNN
+	1    3450 7050
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	4100 6450 3750 6450
+Wire Wire Line
+	4100 6550 3850 6550
+Wire Wire Line
+	3650 6650 3950 6650
+Wire Wire Line
+	3750 6450 3750 6950
+Wire Wire Line
+	3750 6950 3650 6950
+Connection ~ 3750 6450
+Wire Wire Line
+	3750 6450 3650 6450
+Wire Wire Line
+	3650 7050 3850 7050
+Wire Wire Line
+	3850 7050 3850 6550
+Connection ~ 3850 6550
+Wire Wire Line
+	3850 6550 3650 6550
+Wire Wire Line
+	3950 6650 3950 7150
+Wire Wire Line
+	3950 7150 3650 7150
+Connection ~ 3950 6650
+Wire Wire Line
+	3950 6650 4100 6650
+Text GLabel 3200 1400 2    60   Input ~ 0
+VCC
+Wire Wire Line
+	2850 1250 2850 1400
+Wire Wire Line
+	3200 1400 2850 1400
+Connection ~ 2850 1400
+Wire Wire Line
+	2850 1400 2850 1500
+Wire Wire Line
+	1550 6450 1700 6450
+Wire Wire Line
+	1550 6650 2000 6650
+Wire Wire Line
+	1550 6550 1900 6550
+Wire Wire Line
+	1550 7150 1700 7150
+Wire Wire Line
+	2000 7150 2000 6650
+Connection ~ 2000 6650
+Wire Wire Line
+	2000 6650 2100 6650
+Wire Wire Line
+	1800 6450 1800 6950
+Wire Wire Line
+	1800 6950 1550 6950
+Connection ~ 1800 6450
+Wire Wire Line
+	1800 6450 2100 6450
+$Comp
+L power:+5V #PWR08
+U 1 1 5DB93853
+P 1700 6300
+F 0 "#PWR08" H 1700 6150 50  0001 C CNN
+F 1 "+5V" H 1715 6473 50  0000 C CNN
+F 2 "" H 1700 6300 50  0001 C CNN
+F 3 "" H 1700 6300 50  0001 C CNN
+	1    1700 6300
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1700 6300 1700 6450
+Connection ~ 1700 6450
+Wire Wire Line
+	1700 6450 1800 6450
+$Comp
+L power:GND #PWR012
+U 1 1 5DBB1BBC
+P 1700 7250
+F 0 "#PWR012" H 1700 7000 50  0001 C CNN
+F 1 "GND" H 1705 7077 50  0000 C CNN
+F 2 "" H 1700 7250 50  0001 C CNN
+F 3 "" H 1700 7250 50  0001 C CNN
+	1    1700 7250
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1700 7150 1700 7250
+Connection ~ 1700 7150
+Wire Wire Line
+	1700 7150 2000 7150
+$Comp
+L Connector_Generic:Conn_01x03 J7
+U 1 1 5BCEDB9A
+P 5550 6550
+F 0 "J7" H 5630 6592 50  0000 L CNN
+F 1 "Conn_01x03" H 5630 6501 50  0000 L CNN
+F 2 "myfootplint:3pads" H 5550 6550 50  0001 C CNN
+F 3 "~" H 5550 6550 50  0001 C CNN
+	1    5550 6550
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	5750 6550 5900 6550
+Wire Wire Line
+	5750 6650 6100 6650
+$Comp
+L power:GND #PWR011
+U 1 1 5BE3B383
+P 6100 6650
+F 0 "#PWR011" H 6100 6400 50  0001 C CNN
+F 1 "GND" H 6105 6477 50  0000 C CNN
+F 2 "" H 6100 6650 50  0001 C CNN
+F 3 "" H 6100 6650 50  0001 C CNN
+	1    6100 6650
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+3.3V #PWR010
+U 1 1 5BE3B715
+P 5900 6550
+F 0 "#PWR010" H 5900 6400 50  0001 C CNN
+F 1 "+3.3V" H 5915 6723 50  0000 C CNN
+F 2 "" H 5900 6550 50  0001 C CNN
+F 3 "" H 5900 6550 50  0001 C CNN
+	1    5900 6550
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:+5V #PWR09
+U 1 1 5BE4D22E
+P 5750 6450
+F 0 "#PWR09" H 5750 6300 50  0001 C CNN
+F 1 "+5V" H 5765 6623 50  0000 C CNN
+F 2 "" H 5750 6450 50  0001 C CNN
+F 3 "" H 5750 6450 50  0001 C CNN
+	1    5750 6450
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	1900 6550 1900 7050
+Wire Wire Line
+	1900 7050 1550 7050
+Connection ~ 1900 6550
+Wire Wire Line
+	1900 6550 2100 6550
+$Comp
+L Connector_Generic:Conn_01x04 J2
+U 1 1 5BC222A0
+P 6250 1400
+F 0 "J2" H 6330 1392 50  0000 L CNN
+F 1 "Conn_01x04" H 6330 1301 50  0000 L CNN
+F 2 "myfootplint:4pads" H 6250 1400 50  0001 C CNN
+F 3 "~" H 6250 1400 50  0001 C CNN
+	1    6250 1400
+	-1   0    0    -1  
+$EndComp
+$Comp
+L Connector_Generic:Conn_01x04 J1
+U 1 1 5BC22138
+P 4900 1400
+F 0 "J1" H 4980 1392 50  0000 L CNN
+F 1 "Conn_01x04" H 4980 1301 50  0000 L CNN
+F 2 "myfootplint:4pads" H 4900 1400 50  0001 C CNN
+F 3 "~" H 4900 1400 50  0001 C CNN
+	1    4900 1400
+	-1   0    0    -1  
+$EndComp
+Wire Wire Line
+	2300 2500 2300 3050
+Wire Wire Line
+	3050 2500 3050 3050
+Wire Wire Line
+	3800 2500 3800 3050
+Wire Wire Line
+	4550 2500 4550 3050
+$EndSCHEMATC

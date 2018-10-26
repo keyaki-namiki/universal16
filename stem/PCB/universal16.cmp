@@ -1,0 +1,4611 @@
+Cmp-Mod V01 Created by PcbNew   date = Sat 27 Oct 2018 00:28:43 JST
+
+BeginCmp
+TimeStamp = 5BD38631
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37A2F
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD378C8
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37890
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD3785A
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD37807
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD36C2C
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD35C48
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD35B77
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD35B41
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD22D
+Path = /5BAD2AAD
+Reference = SW5;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD1593F
+Path = /5BB0EE75
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE340C4
+Path = /5D0543DE
+Reference = J6;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE3294C
+Path = /5D072900
+Reference = J9;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD1C1
+Path = /5BAD24DD
+Reference = SW2;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE17B13
+Path = /5BC2256C
+Reference = J3;
+ValeurCmp = Conn_01x04;
+IdModule  = myfootplint:4pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE1160A
+Path = /5BC223C7
+Reference = J4;
+ValeurCmp = Conn_01x04;
+IdModule  = myfootplint:4pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B444
+Path = /5BB0EE75
+Reference = R4;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B3D0
+Path = /5BB0EE45
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B35C
+Path = /5BAEA70C
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B2E8
+Path = /5BAEA5F5
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B274
+Path = /5BB0E0E1
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B1DC
+Path = /5BB0EE3F
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B144
+Path = /5BB0EE6F
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B0D0
+Path = /5BAEA2A7
+Reference = R13;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0B05C
+Path = /5BB0E0D5
+Reference = R14;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0AFC4
+Path = /5BB0EE33
+Reference = R15;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0AF50
+Path = /5BB0EE63
+Reference = R16;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0AEDC
+Path = /5BB0EE69
+Reference = R12;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0AE48
+Path = /5BB0EE39
+Reference = R11;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0A26A
+Path = /5BB0E0DB
+Reference = R10;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE08085
+Path = /5BAEA4DE
+Reference = R9;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE0093B
+Path = /5BB0E0E7
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBDB9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBDB5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBDB1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBDAD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBDA9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBDA5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBDA1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBD9D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBD99
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBBD95
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBB289
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBB285
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBB281
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBB27D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBB279
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDBB275
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD395
+Path = /5BAD2F69
+Reference = SW15;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD90471
+Path = /5BBD5F5A
+Reference = J8;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C741
+Path = /5BB0EE69
+Reference = R12;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D1D3
+Path = /5BB0EE21
+Reference = D23;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B651
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B64D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B649
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B645
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B641
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B63D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B639
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B635
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B621
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B61D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B619
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B615
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5FD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5F9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5F5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5F1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5ED
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5E5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5BC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5B8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5B4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5B0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5AC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5A8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5A4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B5A0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8FF0B
+Path = /5BBD5CD8
+Reference = J5;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B2A2
+Path = /5BC222A0
+Reference = J2;
+ValeurCmp = Conn_01x04;
+IdModule  = myfootplint:4pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8B241
+Path = /5BC22138
+Reference = J1;
+ValeurCmp = Conn_01x04;
+IdModule  = myfootplint:4pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8A545
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = myfootplint:universal16_logo;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE605
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE601
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE5FD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE5F9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE5F5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE5F1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE5ED
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE5E9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE5E5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCCE5E1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB41F4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB41F0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB3C75
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB199F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB199B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB1997
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB1993
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB198F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB198B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB195B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB252F1
+Path = 
+Reference = G***;
+ValeurCmp = LOGO;
+IdModule  = myfootplint:universal16_logo;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D15B
+Path = /5BAE4188
+Reference = D17;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D1AB
+Path = /5BAE58A4
+Reference = D21;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D1FB
+Path = /5BAE9954
+Reference = D25;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D223
+Path = /5BB0EE27
+Reference = D27;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D237
+Path = /5BB0EE57
+Reference = D28;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC138BE
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC138BA
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC138B6
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC138B2
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BC138AE
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8E5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCEF7
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB53E3C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDDC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB07
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDC8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB67
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB53E65
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB5452C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB53E71
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB53E6D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB53E69
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB53E58
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB53E54
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE37A
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE376
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE309
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE305
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE301
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2FD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2F9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2F5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2F1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2ED
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2E9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2E5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2E1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2DD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2D9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2D5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2D1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2CD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2C9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2C5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2C1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2BD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2B9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2B5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2B1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE2AD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE281
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE27D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE279
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE275
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE271
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE26D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE269
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE265
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE261
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE25D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE088
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE084
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE07C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE078
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE074
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBE070
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFFC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFF8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFF4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFF0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFEC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFE8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFE4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFE0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFD8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFD4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFD0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFCC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFC8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFC4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFC0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFB8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFB4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFAC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFA8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFA4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDFA0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF98
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF94
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF90
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF1C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF18
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF10
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF0C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF08
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF04
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDF00
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEFC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEF8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEF4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEEC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEE8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEE4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEE0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEDC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDED8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDED4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDECC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEC4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEC0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEBC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEB8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDEB0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE85
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE81
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE7D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE79
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE75
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE71
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE14
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE10
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE0C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE08
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE04
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDE00
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDFC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDF8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDF4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDF0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDEC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDE8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDE4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDE0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDD8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDD4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDD0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDCC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDDC4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDBAB
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDBA7
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDBA3
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB9F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB97
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB93
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB8F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB8B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB87
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB83
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB7B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB73
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB6F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB6B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB63
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB5F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB5B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB53
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB4F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB4B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB47
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB43
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB3B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB37
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB33
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB2F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB27
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB23
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB1F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB1B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB13
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB0F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDB0B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDACB
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDAC7
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDAC3
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDABF
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDABB
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDAB7
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDAB3
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDAAF
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDAAB
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDAA7
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDAA3
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA9F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA9B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA97
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA5A
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA56
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA52
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA4E
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA4A
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA46
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA42
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA3E
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA3A
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA36
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA32
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA2E
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA2A
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBDA26
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9EA
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9E6
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9E2
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9DA
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9D6
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9D2
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9CE
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9C6
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9C2
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9BE
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9BA
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9B6
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD9AE
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD961
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD95D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD959
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD955
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD951
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD94D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD949
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD945
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD941
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD905
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD901
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8FD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8F9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8F5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8F1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8ED
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8E9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8E1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8DD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8D9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8D5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD8D1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD89D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD899
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD895
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD891
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD88D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD889
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD885
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD881
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD87D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD879
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD875
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD871
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD7D9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD7D5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD868
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD745
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD741
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD73D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD739
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD735
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD731
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD72D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD729
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD725
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD721
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD71D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD719
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD715
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD711
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD70D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD709
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD705
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD701
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6FD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6F9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6F5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6F1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6ED
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6E9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6E5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6E1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD6DD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD669
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD665
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD661
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD65D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD659
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD655
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD651
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD64D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD649
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD645
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD641
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD63D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD635
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD631
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD62D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD629
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD625
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD621
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD61D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD619
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD615
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD611
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD60D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD609
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD605
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD601
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD5FD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD589
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD585
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD581
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD57D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD579
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD575
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD571
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD56D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD569
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD565
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD561
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD55D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD559
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD555
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD551
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD54D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD549
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD545
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD541
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD53D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD539
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD535
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD531
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD52D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD529
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD525
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD521
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD51D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD43C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD478
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCED79B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD4C0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD508
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD4B4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD514
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD448
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD49C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCB3B03
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD424
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD4CC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD490
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCED783
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD4D8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD4F0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD46C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD4E4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCED7B3
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD2BB
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD2B3
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD2AF
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCED7A7
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCED777
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD297
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD293
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCED78F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD28B
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD135
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD12D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD125
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD121
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD11D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD085
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD081
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD07D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD079
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD065
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD061
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD05D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD059
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD045
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD041
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD03D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD039
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD025
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD021
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD01D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD019
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD005
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBD001
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCFFD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCFF9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCFE5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCFE1
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCFDD
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCFD9
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCFA5
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF9D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF99
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF85
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF81
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF7D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF79
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF55
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF51
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF4D
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF49
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF33
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF2F
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D16F
+Path = /5BB0E0BD
+Reference = D18;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D183
+Path = /5BB0EE1B
+Reference = D19;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D197
+Path = /5BB0EE4B
+Reference = D20;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D1BF
+Path = /5BB0E0C3
+Reference = D22;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D1E7
+Path = /5BB0EE51
+Reference = D24;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D20F
+Path = /5BB0E0C9
+Reference = D26;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D24B
+Path = /5BAE996C
+Reference = D29;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D25F
+Path = /5BB0E0CF
+Reference = D30;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D273
+Path = /5BB0EE2D
+Reference = D31;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BB3D287
+Path = /5BB0EE5D
+Reference = D32;
+ValeurCmp = LED;
+IdModule  = LED_THT:LED_D3.0mm_Clear;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BBBCF2E
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCE8E00
+Path = /5BAD2A98
+Reference = D7;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCE8E13
+Path = /5BAD2AA6
+Reference = D8;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCE8E5F
+Path = /5BAD2F4B
+Reference = D12;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCE8EAB
+Path = /5BAD2F7B
+Reference = D16;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BCEA64B
+Path = /5BB3EDFA
+Reference = J12;
+ValeurCmp = Conn_01x01;
+IdModule  = myfootplint:TestPoint_Plated_Hole_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD1580F
+Path = /5BAD24D7
+Reference = D1;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD15822
+Path = /5BAD24E3
+Reference = D2;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD15835
+Path = /5BAD1F48
+Reference = D3;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD15848
+Path = /5BAD209A
+Reference = D4;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD1585B
+Path = /5BAD2AB4
+Reference = D5;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BE7DCCB
+Path = /5BAD2AC2
+Reference = D6;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD15881
+Path = /5BAD2F57
+Reference = D9;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD15894
+Path = /5BAD2F63
+Reference = D10;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD158A7
+Path = /5BAD2F3F
+Reference = D11;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD158BA
+Path = /5BAD2F87
+Reference = D13;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD158CD
+Path = /5BAD2F93
+Reference = D14;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD158E0
+Path = /5BAD2F6F
+Reference = D15;
+ValeurCmp = D;
+IdModule  = keyboard_parts:D_SOD123_axial;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD16965
+Path = /5BB2F1DD
+Reference = J11;
+ValeurCmp = Conn_01x01;
+IdModule  = myfootplint:TestPoint_Plated_Hole_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD158F2
+Path = /5BB6D438
+Reference = J13;
+ValeurCmp = Conn_01x01;
+IdModule  = myfootplint:TestPoint_Plated_Hole_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD158FB
+Path = /5BB6D43E
+Reference = J14;
+ValeurCmp = Conn_01x01;
+IdModule  = myfootplint:TestPoint_Plated_Hole_D5.0mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD1590C
+Path = /5BADC3D2
+Reference = JP1;
+ValeurCmp = SolderJumper_3_Open;
+IdModule  = Jumper:SolderJumper-3_P1.3mm_Open_Pad1.0x1.5mm_NumberLabels;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD5E1DD
+Path = /5BC22138
+Reference = J1;
+ValeurCmp = Conn_01x04;
+IdModule  = myfootplint:4pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD5E1F2
+Path = /5BC222A0
+Reference = J2;
+ValeurCmp = Conn_01x04;
+IdModule  = myfootplint:4pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8FFAD
+Path = /5BCEDB9A
+Reference = J5;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD883C7
+Path = /5BC2256C
+Reference = J3;
+ValeurCmp = Conn_01x04;
+IdModule  = myfootplint:4pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD883DC
+Path = /5BC223C7
+Reference = J4;
+ValeurCmp = Conn_01x04;
+IdModule  = myfootplint:4pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD88404
+Path = /5BCEDB9A
+Reference = J7;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD88418
+Path = /5BBD5F5A
+Reference = J8;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8842C
+Path = /5D072900
+Reference = J9;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8BB78
+Path = 
+Reference = REF**;
+ValeurCmp = ProMicro;
+IdModule  = promicro:ProMicro;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C686
+Path = /5D0543DE
+Reference = J6;
+ValeurCmp = Conn_01x03;
+IdModule  = myfootplint:3pads;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C697
+Path = /5BAEA70C
+Reference = R1;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C6A8
+Path = /5BB0E0E7
+Reference = R2;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C6B9
+Path = /5BB0EE45
+Reference = R3;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C6CA
+Path = /5BAEA5F5
+Reference = R5;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C6DB
+Path = /5BB0E0E1
+Reference = R6;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C6EC
+Path = /5BB0EE3F
+Reference = R7;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C6FD
+Path = /5BB0EE6F
+Reference = R8;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C70E
+Path = /5BAEA4DE
+Reference = R9;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C71F
+Path = /5BB0E0DB
+Reference = R10;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C730
+Path = /5BB0EE39
+Reference = R11;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C752
+Path = /5BAEA2A7
+Reference = R13;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C763
+Path = /5BB0E0D5
+Reference = R14;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C774
+Path = /5BB0EE33
+Reference = R15;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD8C785
+Path = /5BB0EE63
+Reference = R16;
+ValeurCmp = R;
+IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD19D
+Path = /5BAD24D1
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD1E5
+Path = /5BAD1EE8
+Reference = SW3;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BEB1C81
+Path = /5BAD2093
+Reference = SW4;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD251
+Path = /5BAD2ABB
+Reference = SW6;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD275
+Path = /5BAD2A91
+Reference = SW7;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD299
+Path = /5BAD2A9F
+Reference = SW8;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD2BD
+Path = /5BAD2F51
+Reference = SW9;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD2E1
+Path = /5BAD2F5D
+Reference = SW10;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD305
+Path = /5BAD2F39
+Reference = SW11;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD329
+Path = /5BAD2F45
+Reference = SW12;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD34D
+Path = /5BAD2F81
+Reference = SW13;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD371
+Path = /5BAD2F8D
+Reference = SW14;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDAD3B9
+Path = /5BAD2F75
+Reference = SW16;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD35AB0
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD377D0
+Path = 
+Reference = REF**;
+ValeurCmp = 4pads-2cons;
+IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+EndListe
