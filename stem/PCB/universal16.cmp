@@ -1,4 +1,196 @@
-Cmp-Mod V01 Created by PcbNew   date = Sat 27 Oct 2018 00:28:43 JST
+Cmp-Mod V01 Created by PcbNew   date = Sun 28 Oct 2018 05:33:19 JST
+
+BeginCmp
+TimeStamp = 5BDA65B4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA65B0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA65AC
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA65A8
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA65A4
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA65A0
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA659C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6598
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6594
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6590
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA658C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6588
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6584
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6580
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA657C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6578
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6574
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6570
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA656C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6568
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6564
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6560
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA655C
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BDA6558
+Path = 
+Reference = P?;
+ValeurCmp = CONN_1;
+IdModule  = keyboard_parts:PIN_1;
+EndCmp
 
 BeginCmp
 TimeStamp = 5BD38631
@@ -81,14 +273,6 @@ IdModule  = myfootplint:4pads-2cons;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BDAD22D
-Path = /5BAD2AAD
-Reference = SW5;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
 TimeStamp = 5BD1593F
 Path = /5BB0EE75
 Reference = R4;
@@ -110,14 +294,6 @@ Path = /5D072900
 Reference = J9;
 ValeurCmp = Conn_01x03;
 IdModule  = myfootplint:3pads;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD1C1
-Path = /5BAD24DD
-Reference = SW2;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
 EndCmp
 
 BeginCmp
@@ -390,14 +566,6 @@ Path =
 Reference = P?;
 ValeurCmp = CONN_1;
 IdModule  = keyboard_parts:PIN_1;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD395
-Path = /5BAD2F69
-Reference = SW15;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
 EndCmp
 
 BeginCmp
@@ -4361,14 +4529,6 @@ IdModule  = myfootplint:3pads;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BD8BB78
-Path = 
-Reference = REF**;
-ValeurCmp = ProMicro;
-IdModule  = promicro:ProMicro;
-EndCmp
-
-BeginCmp
 TimeStamp = 5BD8C686
 Path = /5D0543DE
 Reference = J6;
@@ -4489,110 +4649,6 @@ IdModule  = Resistor_SMD:R_1206_3216Metric_Pad1.42x1.75mm_HandSolder;
 EndCmp
 
 BeginCmp
-TimeStamp = 5BDAD19D
-Path = /5BAD24D1
-Reference = SW1;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD1E5
-Path = /5BAD1EE8
-Reference = SW3;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BEB1C81
-Path = /5BAD2093
-Reference = SW4;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD251
-Path = /5BAD2ABB
-Reference = SW6;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD275
-Path = /5BAD2A91
-Reference = SW7;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD299
-Path = /5BAD2A9F
-Reference = SW8;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD2BD
-Path = /5BAD2F51
-Reference = SW9;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD2E1
-Path = /5BAD2F5D
-Reference = SW10;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD305
-Path = /5BAD2F39
-Reference = SW11;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD329
-Path = /5BAD2F45
-Reference = SW12;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD34D
-Path = /5BAD2F81
-Reference = SW13;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD371
-Path = /5BAD2F8D
-Reference = SW14;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
-TimeStamp = 5BDAD3B9
-Path = /5BAD2F75
-Reference = SW16;
-ValeurCmp = SW_Push;
-IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
-EndCmp
-
-BeginCmp
 TimeStamp = 5BD35AB0
 Path = 
 Reference = REF**;
@@ -4606,6 +4662,134 @@ Path =
 Reference = REF**;
 ValeurCmp = 4pads-2cons;
 IdModule  = myfootplint:4pads-2cons;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD523DB
+Path = /5BAD24D1
+Reference = SW1;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD52401
+Path = /5BAD24DD
+Reference = SW2;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD52427
+Path = /5BAD1EE8
+Reference = SW3;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD5244D
+Path = /5BAD2093
+Reference = SW4;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD52473
+Path = /5BAD2AAD
+Reference = SW5;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD52499
+Path = /5BAD2ABB
+Reference = SW6;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD524BF
+Path = /5BAD2A91
+Reference = SW7;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD524E5
+Path = /5BAD2A9F
+Reference = SW8;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD5250B
+Path = /5BAD2F51
+Reference = SW9;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD52531
+Path = /5BAD2F5D
+Reference = SW10;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD52557
+Path = /5BAD2F39
+Reference = SW11;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD5257D
+Path = /5BAD2F45
+Reference = SW12;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD525A3
+Path = /5BAD2F81
+Reference = SW13;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD525C9
+Path = /5BAD2F8D
+Reference = SW14;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD525EF
+Path = /5BAD2F69
+Reference = SW15;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
+EndCmp
+
+BeginCmp
+TimeStamp = 5BD52615
+Path = /5BAD2F75
+Reference = SW16;
+ValeurCmp = SW_Push;
+IdModule  = myfootplint:MXonly-1U-flip-kailh_lp;
 EndCmp
 
 EndListe
