@@ -29,6 +29,7 @@ void setup(){
 	Serial.println("initialize finished");
 }
 void loop(){
+	delay(1);
 	for(int i=0;i<Rows;i++){
 		digitalWrite(Rowpin[i],LOW);
 		for(int j=0;j<Cols;j++){
