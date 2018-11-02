@@ -1,6 +1,6 @@
 ## universal16
 
-4x4 symple Key-matrix (and some functions) with universal board
+4x4 simple Key-matrix (and some functions) with universal board
 
 ### feature(s)
 
