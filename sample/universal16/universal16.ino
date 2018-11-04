@@ -1,3 +1,9 @@
+/* This is a test program for universal16 with arduino.
+ * to run this program properly, you have to hand-wire
+ * between some pads and controller.
+ *
+ */
+
 const int Rowpin[] = {4,5,7,8};
 const int Colpin[] = {10,15,14,16};
 const int Cols = (sizeof(Rowpin)/sizeof(Rowpin[0]));
