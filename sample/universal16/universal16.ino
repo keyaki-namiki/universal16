@@ -41,17 +41,13 @@ void loop(){
 		for(int j=0;j<Cols;j++){
 			currentState[i][j] = digitalRead(Colpin[j]);
 			if (currentState[i][j] != beforeState[i][j]){
-				if(currentState[i][j] == LOW){
 					Serial.print("key ");
 					Serial.print(i);
 					Serial.print(",");
 					Serial.print(j);
+				if(currentState[i][j] == LOW){
 					Serial.println(" pressed!");
 				} else {
-					Serial.print("key ");
-					Serial.print(i);
-					Serial.print(",");
-					Serial.print(j);
 					Serial.println(" released!");
 				}
 				beforeState[i][j] = currentState[i][j];
