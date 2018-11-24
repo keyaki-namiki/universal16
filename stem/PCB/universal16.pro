@@ -1,4 +1,4 @@
-update=Sun 30 Sep 2018 03:10:20 JST
+update=Sun 25 Nov 2018 06:38:42 JST
 version=1
 last_client=kicad
 [general]
@@ -31,3 +31,13 @@ SolderMaskMinWidth=0
 DrawSegmentWidth=0.2
 BoardOutlineThickness=0.15
 ModuleOutlineThickness=0.15
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=/home/azami/Projects/universal16/stem/image/v0.2/universal16-stem_schema.pdf
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1

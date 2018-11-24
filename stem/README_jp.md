@@ -64,3 +64,9 @@ universal16 Stemでは、基板の回路がパッドとして引き出してあ�
 ![universal16-stem_sideA-3](image/v0.2/sideA-3.jpg)
 
 -----
+
+qmk_firmwareを用いたビルドガイドは[こちら](https://keyaki-namiki.hatenablog.jp/entry/20181123/1542968073)
+
+回路図のPDFは[こちら](image/v0.2/universal16-stem_schema.pdf)。
+
+[universal16-stem_schema.pdf](image/v0.2/universal16-stem_schema.pdf)
