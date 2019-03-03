@@ -5,9 +5,9 @@ EELAYER END
 $Descr A4 11693 8268
 encoding utf-8
 Sheet 1 1
-Title "universal16_stem"
+Title "universal16+4 vert"
 Date "2018-12-14"
-Rev "0.3"
+Rev "0.3c"
 Comp ""
 Comment1 ""
 Comment2 ""

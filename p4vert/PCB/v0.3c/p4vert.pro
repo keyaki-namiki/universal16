@@ -1,4 +1,4 @@
-update=Sun 25 Nov 2018 06:38:42 JST
+update=Mon 04 Mar 2019 03:23:49 JST
 version=1
 last_client=kicad
 [general]
@@ -34,7 +34,7 @@ ModuleOutlineThickness=0.15
 [schematic_editor]
 version=1
 PageLayoutDescrFile=
-PlotDirectoryName=/home/azami/Projects/universal16/stem/image/v0.2/universal16-stem_schema.pdf
+PlotDirectoryName=./
 SubpartIdSeparator=0
 SubpartFirstId=65
 NetFmtName=
